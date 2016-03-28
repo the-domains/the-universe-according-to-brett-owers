@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[The Universe According To Brett Owers]]></title>
         <description><![CDATA[The Universe According To Brett Owers]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/the-universe-according-to-brett-owers/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 27 Mar 2016 05:22:21 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 28 Mar 2016 20:58:27 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/the-universe-according-to-brett-owers/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[0.]]></title>
+            <description><![CDATA[<h1>0.</h1>]]></description>
+            <link>https://thegrid.ai/the-universe-according-to-brett-owers/0/index.html</link>
+            <guid isPermaLink="false">8a770f48-99d1-4d41-b013-f04c1e01944e</guid>
+            <pubDate>Mon, 28 Mar 2016 20:58:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Digits]]></title>
             <description><![CDATA[<article><h1>Digits</h1><p>0. Nothing</p></article>]]></description>
-            <link>undefineddigits/index.html</link>
+            <link>https://thegrid.ai/the-universe-according-to-brett-owers/digits/index.html</link>
             <guid isPermaLink="false">dad7d79c-050e-4406-a2c2-7f1273df6c5f</guid>
             <pubDate>Sun, 27 Mar 2016 05:22:10 GMT</pubDate>
         </item>
