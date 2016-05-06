@@ -1,6 +1,6 @@
 name: The Universe According To Brett Owers
 favicon: null
-layout_spectrum: 0.40659546037204564
+layout_spectrum: 1
 typography_spectrum: 0.8493131862487644
 title: The Universe According To Brett Owers
 cta:
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ad8d55'
-    - '#141412'
-    - '#5e4527'
-    - '#dfd1aa'
-    - '#ab611a'
-  brandStrength: 0.06656098691746593
-  lightness: 0.28952019196003675
-  saturation: 0.793553710449487
-  rhythmicContrast: 0.760619553970173
+    - '#450951'
+    - '#ccaacb'
+    - '#ebdae0'
+    - '#853222'
+    - '#9c69b6'
+  brandStrength: 0.4375
+  lightness: 0.5
+  saturation: 0.1875
+  rhythmicContrast: 0
 purpose: []
