@@ -25,8 +25,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://escape-industries.ninja/bookings/'
 title: 'Escape New Haven | Bookings'
-datePublished: '2016-05-11T20:41:16.687Z'
-dateModified: '2016-05-05T23:35:23.482Z'
+datePublished: '2016-05-11T20:43:39.318Z'
+dateModified: '2016-05-05T23:37:55.016Z'
 starred: false
 sourcePath: _posts/2016-05-11-escape-new-haven-or-bookings.md
 inFeed: true
